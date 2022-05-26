@@ -1,4 +1,4 @@
-import { NextResponse, NextRequest } from "next/server";
+import { NextResponse } from "next/server";
 
 const signedinPages = ["/dashboard/admin", "/dashboard/issuer", '/dashboard/investor'];
 // const signedinPages = ['/df'];

@@ -1,6 +1,6 @@
 import React from "react";
-import Image from "next/Image";
-import { Box, List, Divider } from "@chakra-ui/react";
+import Image from "next/image";
+import { Box, List} from "@chakra-ui/react";
 import MenuItem from "./MenuItem";
 import { MdOutlineDashboard, MdEuroSymbol } from "react-icons/md";
 import { FiCreditCard, FiSettings } from "react-icons/fi";
